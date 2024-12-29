@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(115, 115, 115);
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+
+}
+
+button {
+    width: 4rem;
+    height: 3rem;
+    margin: 1rem;
+    border-radius: 10px;
+    background-color: rgb(189, 197, 193);
+}
